@@ -1,0 +1,15 @@
+🧠 Practice 2
+
+Declare:
+
+one integer
+
+one double
+
+one char
+
+one bool
+
+Assign values to them.
+
+Print them.

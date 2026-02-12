@@ -1,0 +1,15 @@
+🧠 Practice 1
+
+Write a program that:
+
+Asks the user for one number.
+
+Prints that number.
+
+Do not try to be fancy. Just:
+
+Declare a variable
+
+Read it
+
+Print it
