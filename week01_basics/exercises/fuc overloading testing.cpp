@@ -4,6 +4,8 @@ using namespace std;
 void name();
 void name(string lasname);
 
+int 
+
 int main(){
     name();
     name("bot");
